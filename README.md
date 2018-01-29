@@ -4,8 +4,7 @@ test re document creation
 header page
 
 ## The Digital Documentation Journey
-
-documentation-test/header page
+source:/header page
 
 {
   "title": "Solution Architecture",
