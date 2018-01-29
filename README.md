@@ -4,8 +4,7 @@ test re document creation
 header page
 
 ## The Digital Documentation Journey
-source:/header page
-documentation-test/header.docx
+source:/header page documentation-test/header.docx
 
 ## Content Packs
 
