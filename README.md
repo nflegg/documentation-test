@@ -5,22 +5,8 @@ header page
 
 ## The Digital Documentation Journey
 source:/header page
+documentation-test/header.docx
 
-{
-  "title": "Solution Architecture",
-  "sections": [
-    {
-      "name":"Introduction",
-      "source":"/Content/Application Introduction.md",
-      "paragraph": "Heading 2"
-    },
-    {
-      "name":"Application Components",
-      "source": "/Content/Application-Components/heading 1.md",
-      "paragraph": "Heading 1"
-    }
-    ]
-}
 ## Content Packs
 
 A Content Pack is a grouping of related content, for instance a pack could be ‘Logical Context’.
