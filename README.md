@@ -6,6 +6,7 @@ header page
 ## The Digital Documentation Journey
 
 ![DDF_Journey](images/DDF_Journey.jpg)
+!documentation-test/front-page
 
 
 ## Content Packs
