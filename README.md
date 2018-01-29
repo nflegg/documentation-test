@@ -17,3 +17,12 @@ Within that pack is all content related to the logical context of a given applic
 There would be a common set of Content Packs for each product, service, offering and solution and a map which brings all that content together to produce the various end-state documents.
 
 A content pack has a defined template skeleton which includes the following data:
+
+## Tools
+
+| Category        | tools                                   |
+| --------------- | --------------------------------------- |
+| Markdown editor | [Visual Studio Code], [Atom], [Writage] |
+| Transformation  | [Pandoc], [MultiMarkdown], [LaTeX]      |
+| Templating      | [Yeoman]                                |
+| Diagrams        | [PlantUML]
